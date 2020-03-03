@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  #numpy only used to find known values for comparison
 import matplotlib.pyplot as plt
 
 
